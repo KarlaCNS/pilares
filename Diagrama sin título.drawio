@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T03:26:28.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="uIFvfKo20P4U04YFeiIv" version="22.1.9" type="github">
-  <diagram name="Página-1" id="mczjVpZbkuYjbEoJn_a6">
-    <mxGraphModel dx="794" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-12-15T11:41:43.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" version="22.1.9" etag="utcIfvM1SSV1eHqqztXb" type="github">
+  <diagram name="Página-1" id="bU0bgOvAKqYtEfahXp6e">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qDe7kc_pJILXCMBamK6b-18" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="325" width="130" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="qDe7kc_pJILXCMBamK6b-19" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="450" width="130" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="qDe7kc_pJILXCMBamK6b-20" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="130" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="qDe7kc_pJILXCMBamK6b-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDe7kc_pJILXCMBamK6b-31" target="qDe7kc_pJILXCMBamK6b-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qDe7kc_pJILXCMBamK6b-31" value="Gestores de Base de Datos" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="150" y="70" width="460" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="qDe7kc_pJILXCMBamK6b-53" value="" style="whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="120" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="qDe7kc_pJILXCMBamK6b-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qDe7kc_pJILXCMBamK6b-53" target="qDe7kc_pJILXCMBamK6b-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
