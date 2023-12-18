@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T02:01:39.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="7tN46yP2qth4xJKwKiJz" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T03:11:08.956Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="DgoQTZAekt0_EQ9XzVxL" version="22.1.11" type="github">
   <diagram name="Página-1" id="GNA16D68-L6fkF1S1apt">
-    <mxGraphModel dx="628" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="887" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,11 @@
         <mxCell id="A61VD3U0U0EmOoXUIuV9-36" value="&amp;nbsp;Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="470" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HpAzQx37nlzWUzMgzECv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A61VD3U0U0EmOoXUIuV9-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A61VD3U0U0EmOoXUIuV9-58" value="&lt;i&gt;&amp;nbsp;Categoría&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="665" y="630" width="100" height="50" as="geometry" />
         </mxCell>
@@ -147,7 +152,7 @@
         <mxCell id="HpAzQx37nlzWUzMgzECv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HpAzQx37nlzWUzMgzECv-15" target="A61VD3U0U0EmOoXUIuV9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HpAzQx37nlzWUzMgzECv-15" value="&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="HpAzQx37nlzWUzMgzECv-15" value="Cantidad" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="630" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
